@@ -32,10 +32,7 @@ To get started with any of our projects or to learn more about how you can help,
 
 For any questions or inquiries, please reach out to us at:
 - **Email**: support@sautisalama.org
-- **Twitter**: [@SautiSalama](https://twitter.com/SautiSalama)
 
 Together, we can make a difference in the lives of SGBV survivors. Thank you for your support!
 
----
 
-Feel free to adjust this as needed to better reflect the spirit and goals of Sauti Salama!
