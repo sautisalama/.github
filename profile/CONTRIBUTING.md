@@ -94,7 +94,7 @@ Sauti Salama aims to empower survivors of SGBV by providing them with the necess
     ```bash
     python manage.py runserver
     ```
-
+For the backend, navigate to [Backend](https://github.com/sautisalama/Salama)directory and follow the instructions in the `README.md` file.
 For the frontend, navigate to the [Frontend Repo](https://github.com/sautisalama/Sauti) directory and follow the instructions in the `README.md` file.
 
 ## How to Contribute
