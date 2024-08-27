@@ -1,20 +1,29 @@
 # Contributing to Sauti Salama
 
-Thank you for considering contributing to the Sauti Salama! We appreciate your help and want to make the process as smooth as possible. Below are some guidelines and information to help you get started.
+Sauti Salama ("Safe Voice" in Swahili) is a digital platform designed to provide critical services to survivors of sexual and gender-based violence (SGBV) in Kenya. The platform includes a mobile progressive web application (PWA) and a USSD service, offering a safe, anonymous, and accessible channel for survivors to report incidents and access legal, medical, and mental health support.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Installation](#installation)
 3. [How to Contribute](#how-to-contribute)
+   - [Reporting Bugs](#reporting-bugs)
+   - [Suggesting Features](#suggesting-features)
+   - [Code Contributions](#code-contributions)
 4. [Code of Conduct](#code-of-conduct)
 5. [Style Guide](#style-guide)
+   - [Python](#python)
+   - [HTML/CSS](#htmlcss)
+   - [JavaScript](#javascript)
 6. [Submitting Issues](#submitting-issues)
 7. [Submitting Pull Requests](#submitting-pull-requests)
 8. [Community and Support](#community-and-support)
+9. [License](#license)
 
 ## Project Overview
 
-Salama Community is a web-based chat application designed to facilitate real-time communication within a community. The project is built using Django for the backend and WebSockets for real-time messaging.
+Sauti Salama aims to empower survivors of SGBV by providing them with the necessary tools and resources to report incidents and seek support. The platform ensures user safety, privacy, and accessibility across various devices and internet connection speeds. By leveraging modern technology, Sauti Salama strives to create a supportive environment for survivors, enabling them to access critical services and resources efficiently.
 
 ### Key Features
 - Real-time chat functionality
@@ -50,7 +59,7 @@ Salama Community is a web-based chat application designed to facilitate real-tim
     python manage.py runserver
     ```
 
-For the frontend, navigate to the [Frontend Repo](https://github.com/sautisalama/Sauti) directory and follow the instructions in the `README.md` file:
+For the frontend, navigate to the [Frontend Repo](https://github.com/sautisalama/Sauti) directory and follow the instructions in the `README.md` file.
 
 ## How to Contribute
 
@@ -114,6 +123,8 @@ When submitting a pull request, please ensure:
 
 ## Community and Support
 
-Join our community on [Whatsapp]() for support and discussion. You can also reach out via [email](mailto:).
+Join our community on [WhatsApp]() for support and discussion. You can also reach out via [email](mailto:).
 
-Thank you for contributing to Sauti Salama
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
