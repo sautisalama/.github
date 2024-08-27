@@ -31,7 +31,7 @@ To get started with any of our projects or to learn more about how you can help,
 ## Contact Us
 
 For any questions or inquiries, please reach out to us at:
-- **Email**: support@sautisalama.org
+- **Email**: info@sautisalama.org
 
 Together, we can make a difference in the lives of SGBV survivors. Thank you for your support!
 
