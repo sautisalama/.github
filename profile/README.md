@@ -35,8 +35,6 @@ For any questions or inquiries, please reach out to us at:
 
 Together, we can make a difference in the lives of SGBV survivors. Thank you for your support!
 
-## FOR DEVELOPERS
+## FOR DEVELOPERS [CONTRIBUTING]
 
-To get started with any of our projects or to learn more about how you can help, please visit [HERE](https://github.com/sautisalama/Salama/README.md)
-
-
+We welcome contributions from the community. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
