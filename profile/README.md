@@ -39,20 +39,4 @@ Together, we can make a difference in the lives of SGBV survivors. Thank you for
 
 We welcome contributions from the community. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%">
-        <a href="https://github.com/salawekesa">
-          <img src="https://avatars.githubusercontent.com/u/12345678?v=4?s=100" width="100px;" alt="Salawekesa"/><br />
-          <sub><b>Salawekesa</b></sub>
-        </a><br />
-        <a href="https://github.com/your-repository/commits?author=salawekesa" title="Code">💻</a> 
-        <a href="#ideas-salawekesa" title="Ideas, Planning, & Feedback">🤔</a>
-        <a href="#design-salawekesa" title="Design">🎨</a> 
-        <a href="#documentation-salawekesa" title="Documentation">📖</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
